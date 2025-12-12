@@ -10,8 +10,8 @@ import OddEven from './OddEven'
 function App() {
   return (
   <>
-  {/* <Counter/> */}
-  <OddEven/>
+  <Counter/>
+  
   </>
 
   )
